@@ -84,7 +84,7 @@ dependencies {
 DataTable dataTable = findViewById(R.id.data_table);
         
 DataTableHeader header = new DataTableHeader.Builder()
-    .item("field name", field weight)
+    .item("field name", field weight) // In this Version the weight is actually the size of the field on the display
     .item("field name", field weight)
     .item("field name", field weight)
     .item("field name", field weight)

@@ -45,7 +45,7 @@ Step 2. Add the dependency
 ```gradle
 // builde.gradle(app level)
 dependencies {
-    implementation 'com.github.salehyarahmadi:DataTable:v1.0.1'
+    implementation 'com.github.karkaratz:DataTable:v.1.1.0'
 }
 ```
  
